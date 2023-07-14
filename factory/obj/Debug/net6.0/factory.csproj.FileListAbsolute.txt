@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\bin\Debug\net6.0\factory.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\bin\Debug\net6.0\factory.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\bin\Debug\net6.0\factory.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\bin\Debug\net6.0\factory.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\bin\Debug\net6.0\factory.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\refint\factory.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\factory.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\factory\obj\Debug\net6.0\ref\factory.dll
