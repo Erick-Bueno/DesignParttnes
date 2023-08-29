@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\bin\Debug\net6.0\abstract factory.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\bin\Debug\net6.0\abstract factory.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\bin\Debug\net6.0\abstract factory.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\bin\Debug\net6.0\abstract factory.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\bin\Debug\net6.0\abstract factory.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\refint\abstract factory.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\abstract factory.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\abstract factory\obj\Debug\net6.0\ref\abstract factory.dll

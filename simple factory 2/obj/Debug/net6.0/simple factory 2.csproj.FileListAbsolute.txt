@@ -1,0 +1,15 @@
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\bin\Debug\net6.0\simple factory 2.exe
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\bin\Debug\net6.0\simple factory 2.deps.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\bin\Debug\net6.0\simple factory 2.runtimeconfig.json
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\bin\Debug\net6.0\simple factory 2.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\bin\Debug\net6.0\simple factory 2.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.csproj.AssemblyReference.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.AssemblyInfoInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.AssemblyInfo.cs
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.csproj.CoreCompileInputs.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\refint\simple factory 2.dll
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.pdb
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\simple factory 2.genruntimeconfig.cache
+C:\Users\erick\Documents\Linguas-20220714T235342Z-001\Linguas\C#\designPartnnes\simple factory 2\obj\Debug\net6.0\ref\simple factory 2.dll
